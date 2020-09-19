@@ -1,1 +1,1 @@
-# First Front End Project using only html and css
+# First Front End Project using only basic html
